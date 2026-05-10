@@ -66,7 +66,23 @@
 ## 🌐 Live Demo
 [**Click Here to Access the Live Portal**](https://loan-risk-intelligence.streamlit.app/)  
 *(Default Credentials: User: `admin` | Pass: `knust2026`)*
+---
 
+## 📸 System Screenshots
+
+### 🛡️ User Authentication & Dashboard
+![Main Dashboard](screenshots/dashboard_main.png)
+
+### 🧠 AI Risk Analysis & Explainability
+![Risk Analysis](screenshots/risk_analysis.png)
+
+### 📊 Portfolio Business Intelligence
+![Portfolio BI](screenshots/portfolio_bi.png)
+
+### 📑 Regulatory Audit Trail
+![Audit Trail](screenshots/audit_trail.png)
+
+---
 ---
 
 ## ⚠️ Disclaimer
