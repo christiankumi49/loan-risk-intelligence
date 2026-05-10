@@ -64,7 +64,7 @@
 ---
 
 ## 🌐 Live Demo
-[**Click Here to Access the Live Portal**](https://your-app.streamlit.app)  
+[**Click Here to Access the Live Portal**](https://loan-risk-intelligence.streamlit.app/)  
 *(Default Credentials: User: `admin` | Pass: `knust2026`)*
 
 ---
